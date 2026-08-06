@@ -79,5 +79,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:10:34.403Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-6",
+    "path": "/tree-services",
+    "type": "page",
+    "title": "Tree Services",
+    "seoTitle": "Tree Services The Hills Shire | Tree Removal & Pruning | Hill Shire Landscaping",
+    "seoDescription": "Tree services across The Hills Shire, NSW — tree removal, pruning, cutting and lopping. Safe work, mess cleaned up. Family-owned local team. Free quotes.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-06T12:11:14.473Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-08-06T12:11:14.473Z",
+    "createdBy": "derek"
   }
 ]
