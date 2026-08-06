@@ -15,5 +15,21 @@
     "createdAt": "2026-08-06T11:40:08.049Z",
     "createdBy": "derek",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/gardener",
+    "type": "page",
+    "title": "Gardener",
+    "seoTitle": "Garden Maintenance The Hills Shire | Gardening Services | Hill Shire Landscaping",
+    "seoDescription": "Reliable garden maintenance and gardening services across The Hills Shire, NSW. Regular or one-off — hedging, pruning, weeding, tidy-ups. Family-owned. Free quotes.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-06T12:03:39.709Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-08-06T12:03:39.709Z",
+    "createdBy": "derek"
   }
 ]
