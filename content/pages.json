@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Landscaping The Hills Shire | Hill Shire Landscaping | Castle Hill, Kellyville & Dural",
@@ -10,9 +10,10 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-08-06T21:02:50.884Z",
+    "updatedAt": "2026-08-06T21:03:05.876Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T21:02:30.425Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": true
   }
 ]
