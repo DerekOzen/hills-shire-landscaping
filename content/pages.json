@@ -143,5 +143,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:13:16.048Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-10",
+    "path": "/privacy-policy",
+    "type": "page",
+    "title": "Privacy Policy",
+    "seoTitle": "Privacy Policy | Hill Shire Landscaping",
+    "seoDescription": "How Hill Shire Landscaping collects, uses and protects your personal information, in line with the Australian Privacy Principles.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-06T12:14:00.301Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-08-06T12:14:00.301Z",
+    "createdBy": "derek"
   }
 ]
