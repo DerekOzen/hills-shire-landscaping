@@ -207,5 +207,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-08-06T21:16:40.512Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-14",
+    "path": "/service-areas",
+    "type": "page",
+    "title": "Service Areas",
+    "seoTitle": "Areas We Service | Landscaping Across The Hills Shire | Hill Shire Landscaping",
+    "seoDescription": "Hill Shire Landscaping services all 18 suburbs across The Hills Shire, NSW — Castle Hill, Kellyville, Baulkham Hills, Dural, Rouse Hill and more. Find your suburb. Call 0451 267 287.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-06T21:18:05.810Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-08-06T21:18:05.810Z",
+    "createdBy": "derek"
   }
 ]
