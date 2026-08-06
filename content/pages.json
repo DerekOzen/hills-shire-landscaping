@@ -202,7 +202,7 @@
   },
   {
     "id": "pg-13",
-    "path": "/about",
+    "path": "/about-us/",
     "type": "page",
     "title": "About",
     "seoTitle": "About Hill Shire Landscaping | Family-Owned Landscapers in The Hills Shire",
@@ -210,8 +210,8 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-08-06T12:15:35.571Z",
+    "status": "published",
+    "updatedAt": "2026-08-06T12:39:35.281Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:15:35.571Z",
     "createdBy": "derek"
