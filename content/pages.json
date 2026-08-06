@@ -209,5 +209,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:15:35.571Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-14",
+    "path": "/service-areas/landscaping-annangrove",
+    "type": "location",
+    "title": "Landscaping Annangrove",
+    "seoTitle": "Landscaping Annangrove | Local Landscapers in Annangrove, NSW | Hill Shire Landscaping",
+    "seoDescription": "Family-owned landscaping in Annangrove, NSW. Soft & hard landscaping, gardening, tree services, retaining walls, paving & turf. 15+ years local. Free quotes. Call 0451 267 287.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-06T12:18:18.931Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-08-06T12:18:18.931Z",
+    "createdBy": "derek"
   }
 ]
