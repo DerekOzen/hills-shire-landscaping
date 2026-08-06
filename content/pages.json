@@ -111,5 +111,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:12:06.379Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-8",
+    "path": "/weeding",
+    "type": "page",
+    "title": "Weeding",
+    "seoTitle": "Weeding Services The Hills Shire | Garden Weed Removal | Hill Shire Landscaping",
+    "seoDescription": "Weeding services across The Hills Shire, NSW. We clear weeds from beds, paths and paving and help keep them from coming back. Family-owned. Free quotes.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-06T12:12:41.263Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-08-06T12:12:41.263Z",
+    "createdBy": "derek"
   }
 ]
