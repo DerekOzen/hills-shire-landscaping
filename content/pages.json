@@ -536,7 +536,7 @@
   },
   {
     "id": "pg-33",
-    "path": "/service-areas/landscaping-sackville-north-local-landscapers-in-sackville-north-nsw-hill-shire-landscaping",
+    "path": "/service-areas/landscaping-sackville-north/",
     "type": "location",
     "title": "Landscaping Sackville North | Local Landscapers in Sackville North, NSW | Hill Shire Landscaping",
     "seoTitle": "Landscaping Sackville North | Local Landscapers in Sackville North, NSW | Hill Shire Landscaping",
@@ -544,10 +544,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T19:01:10.274Z",
+    "updatedAt": "2026-08-06T20:33:46.474Z",
     "updatedBy": "derek"
   },
   {
