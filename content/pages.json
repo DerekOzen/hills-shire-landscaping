@@ -234,11 +234,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-08-06T12:18:27.688Z",
+    "status": "deleted",
+    "updatedAt": "2026-08-06T20:53:54.200Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:18:18.931Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-15",
@@ -285,12 +286,13 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-08-06T12:50:16.148Z",
+    "status": "deleted",
+    "updatedAt": "2026-08-06T20:53:54.200Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:49:56.025Z",
     "createdBy": "derek",
-    "category": "Locations"
+    "category": "Locations",
+    "isHome": false
   },
   {
     "id": "pg-18",
@@ -302,12 +304,13 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T20:29:15.513Z",
+    "updatedAt": "2026-08-06T20:53:54.200Z",
     "updatedBy": "derek",
-    "category": "Locations"
+    "category": "Locations",
+    "isHome": false
   },
   {
     "id": "pg-19",
@@ -319,12 +322,13 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T20:30:20.435Z",
+    "updatedAt": "2026-08-06T20:53:54.200Z",
     "updatedBy": "derek",
-    "category": "Locations"
+    "category": "Locations",
+    "isHome": false
   },
   {
     "id": "pg-20",
@@ -336,12 +340,13 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T20:35:20.243Z",
+    "updatedAt": "2026-08-06T20:53:54.200Z",
     "updatedBy": "derek",
-    "category": "Locations"
+    "category": "Locations",
+    "isHome": false
   },
   {
     "id": "pg-21",
@@ -353,12 +358,13 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T20:30:50.267Z",
+    "updatedAt": "2026-08-06T20:53:54.200Z",
     "updatedBy": "derek",
-    "category": "Locations"
+    "category": "Locations",
+    "isHome": false
   },
   {
     "id": "pg-22",
@@ -370,12 +376,13 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T20:31:06.024Z",
+    "updatedAt": "2026-08-06T20:53:54.200Z",
     "updatedBy": "derek",
-    "category": "Locations"
+    "category": "Locations",
+    "isHome": false
   },
   {
     "id": "pg-23",
@@ -387,12 +394,13 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T20:31:14.472Z",
+    "updatedAt": "2026-08-06T20:53:54.200Z",
     "updatedBy": "derek",
-    "category": "Locations"
+    "category": "Locations",
+    "isHome": false
   },
   {
     "id": "pg-24",
@@ -404,12 +412,13 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T20:31:25.606Z",
+    "updatedAt": "2026-08-06T20:53:54.200Z",
     "updatedBy": "derek",
-    "category": "Locations"
+    "category": "Locations",
+    "isHome": false
   },
   {
     "id": "pg-25",
@@ -421,12 +430,13 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T20:31:33.862Z",
+    "updatedAt": "2026-08-06T20:53:54.200Z",
     "updatedBy": "derek",
-    "category": "Locations"
+    "category": "Locations",
+    "isHome": false
   },
   {
     "id": "pg-26",
@@ -438,12 +448,13 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T20:31:41.450Z",
+    "updatedAt": "2026-08-06T20:53:54.200Z",
     "updatedBy": "derek",
-    "category": "Locations"
+    "category": "Locations",
+    "isHome": false
   },
   {
     "id": "pg-27",
@@ -455,12 +466,13 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T20:31:50.253Z",
+    "updatedAt": "2026-08-06T20:53:54.200Z",
     "updatedBy": "derek",
-    "category": "Locations"
+    "category": "Locations",
+    "isHome": false
   },
   {
     "id": "pg-28",
@@ -472,12 +484,13 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T20:33:07.329Z",
+    "updatedAt": "2026-08-06T20:53:54.200Z",
     "updatedBy": "derek",
-    "category": "Locations"
+    "category": "Locations",
+    "isHome": false
   },
   {
     "id": "pg-29",
@@ -489,11 +502,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T20:33:15.542Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-06T20:53:54.200Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-30",
@@ -505,11 +519,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T20:31:57.238Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-06T20:53:54.200Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-31",
@@ -521,11 +536,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T20:33:22.705Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-06T20:53:54.200Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-32",
@@ -537,11 +553,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T20:33:30.944Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-06T20:53:54.200Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-33",
@@ -553,11 +570,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T20:33:46.474Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-06T20:53:54.200Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-34",
@@ -569,10 +587,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T20:34:05.068Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-06T20:53:54.200Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
