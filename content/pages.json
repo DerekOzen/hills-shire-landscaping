@@ -31,5 +31,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:03:39.709Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-3",
+    "path": "/mulching",
+    "type": "page",
+    "title": "Mulching",
+    "seoTitle": "Mulching Services The Hills Shire | Garden Mulching | Hill Shire Landscaping",
+    "seoDescription": "Professional mulching services across The Hills Shire, NSW. Supply and spread quality mulch to protect your garden, save water and suppress weeds. Free quotes.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-06T12:04:28.471Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-08-06T12:04:28.471Z",
+    "createdBy": "derek"
   }
 ]
