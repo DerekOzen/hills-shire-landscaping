@@ -248,5 +248,21 @@
     "createdAt": "2026-08-06T12:19:50.202Z",
     "createdBy": "derek",
     "category": "Services"
+  },
+  {
+    "id": "pg-16",
+    "path": "/landscape-design-construction",
+    "type": "page",
+    "title": "Landscape Design Construction",
+    "seoTitle": "Landscape Design & Construction The Hills Shire | Backyard Makeovers | Hill Shire Landscaping",
+    "seoDescription": "Landscape design and construction across The Hills Shire, NSW. Full backyard makeovers and complete soft & hard landscaping builds by a family-owned local team. Free quotes.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-06T12:37:04.244Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-08-06T12:37:04.244Z",
+    "createdBy": "derek"
   }
 ]
