@@ -112,10 +112,11 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-08-06T12:12:17.255Z",
+    "updatedAt": "2026-08-06T12:25:39.845Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:12:06.379Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "category": "Services"
   },
   {
     "id": "pg-8",
