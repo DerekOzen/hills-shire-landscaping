@@ -170,11 +170,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-08-06T12:14:07.526Z",
+    "status": "deleted",
+    "updatedAt": "2026-08-06T20:54:07.526Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:14:00.301Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-11",
@@ -186,11 +187,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-08-06T12:41:11.571Z",
+    "status": "deleted",
+    "updatedAt": "2026-08-06T20:54:07.526Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:14:33.509Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-12",
@@ -202,11 +204,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-08-06T12:15:14.160Z",
+    "status": "deleted",
+    "updatedAt": "2026-08-06T20:54:07.526Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:15:05.584Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-13",
@@ -218,11 +221,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-08-06T12:39:35.281Z",
+    "status": "deleted",
+    "updatedAt": "2026-08-06T20:54:07.526Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:15:35.571Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-14",
@@ -251,12 +255,13 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-08-06T19:02:06.419Z",
+    "status": "deleted",
+    "updatedAt": "2026-08-06T20:54:07.526Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:19:50.202Z",
     "createdBy": "derek",
-    "category": "Other"
+    "category": "Other",
+    "isHome": false
   },
   {
     "id": "pg-16",
