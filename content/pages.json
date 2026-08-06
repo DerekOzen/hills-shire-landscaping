@@ -170,7 +170,7 @@
   },
   {
     "id": "pg-11",
-    "path": "/terms-conditions",
+    "path": "/terms-and-conditions",
     "type": "page",
     "title": "Terms & Conditions",
     "seoTitle": "Terms & Conditions | Hill Shire Landscaping",
@@ -179,7 +179,7 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-08-06T12:14:40.786Z",
+    "updatedAt": "2026-08-06T12:41:11.571Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:14:33.509Z",
     "createdBy": "derek"
