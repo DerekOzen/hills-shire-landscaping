@@ -95,5 +95,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:11:14.473Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-7",
+    "path": "/turf-laying",
+    "type": "page",
+    "title": "Turf Laying",
+    "seoTitle": "Turf Laying The Hills Shire | New Lawn & Turf Supply | Hill Shire Landscaping",
+    "seoDescription": "Turf laying across The Hills Shire, NSW. We prep, level and lay quality turf for a fresh, healthy lawn that takes and lasts. Family-owned local team. Free quotes.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-06T12:12:06.379Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-08-06T12:12:06.379Z",
+    "createdBy": "derek"
   }
 ]
