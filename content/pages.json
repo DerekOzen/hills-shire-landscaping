@@ -159,5 +159,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:14:00.301Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-11",
+    "path": "/terms-conditions",
+    "type": "page",
+    "title": "Terms & Conditions",
+    "seoTitle": "Terms & Conditions | Hill Shire Landscaping",
+    "seoDescription": "The terms and conditions for landscaping services provided by Hill Shire Landscaping across The Hills Shire, NSW.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-06T12:14:33.509Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-08-06T12:14:33.509Z",
+    "createdBy": "derek"
   }
 ]
