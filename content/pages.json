@@ -44,10 +44,11 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-08-06T12:04:38.559Z",
+    "updatedAt": "2026-08-06T12:16:53.925Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:04:28.471Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "category": "Services"
   },
   {
     "id": "pg-4",
