@@ -106,8 +106,8 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-08-06T12:12:06.379Z",
+    "status": "published",
+    "updatedAt": "2026-08-06T12:12:17.255Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:12:06.379Z",
     "createdBy": "derek"
