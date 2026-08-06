@@ -60,11 +60,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-08-06T12:05:14.901Z",
+    "status": "published",
+    "updatedAt": "2026-08-06T12:24:38.956Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:05:14.901Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "category": "Services"
   },
   {
     "id": "pg-5",
