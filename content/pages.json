@@ -154,8 +154,8 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-08-06T12:14:00.301Z",
+    "status": "published",
+    "updatedAt": "2026-08-06T12:14:07.526Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:14:00.301Z",
     "createdBy": "derek"
