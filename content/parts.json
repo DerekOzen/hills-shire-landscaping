@@ -46,7 +46,8 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap"
     ],
-    "updatedAt": "2026-08-06T11:40:05.994Z"
+    "updatedAt": "2026-08-06T20:57:33.010Z",
+    "deleted": true
   },
   {
     "id": "header-2",
