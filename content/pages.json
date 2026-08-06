@@ -529,5 +529,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-08-06T21:27:00.198Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-34",
+    "path": "/services",
+    "type": "service",
+    "title": "Services",
+    "seoTitle": "Landscaping Services The Hills Shire | Hill Shire Landscaping",
+    "seoDescription": "Explore Hill Shire Landscaping’s services across The Hills Shire, NSW — landscaping, gardening, mulching, weeding, tree services, retaining walls, paving & turf. Call 0451 267 287.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-06T21:36:18.618Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-08-06T21:36:18.618Z",
+    "createdBy": "derek"
   }
 ]
