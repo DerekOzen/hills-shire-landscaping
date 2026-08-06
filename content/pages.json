@@ -394,11 +394,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T17:58:21.753Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-06T18:02:35.336Z",
+    "updatedBy": "derek",
+    "category": "Locations"
   },
   {
     "id": "pg-25",
