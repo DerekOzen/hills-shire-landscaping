@@ -2,7 +2,28 @@
   {
     "id": "menu-1",
     "name": "HSL",
-    "items": [],
-    "updatedAt": "2026-08-06T12:20:56.888Z"
+    "items": [
+      {
+        "id": "i12ldrp2",
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "id": "i82sqzvc",
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "id": "iri9pnmk",
+        "label": "Services",
+        "href": "/services"
+      },
+      {
+        "id": "irat5aqm",
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "updatedAt": "2026-08-06T12:21:55.318Z"
   }
 ]
