@@ -276,10 +276,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-08-06T12:49:56.025Z",
+    "status": "published",
+    "updatedAt": "2026-08-06T12:50:16.148Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:49:56.025Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "category": "Locations"
   }
 ]
