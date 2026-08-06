@@ -171,10 +171,11 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-08-06T21:13:43.316Z",
+    "updatedAt": "2026-08-06T21:32:16.024Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T21:12:06.005Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "noindex": true
   },
   {
     "id": "pg-12",
