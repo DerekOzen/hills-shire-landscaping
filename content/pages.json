@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Landscaping The Hills Shire | Hill Shire Landscaping | Castle Hill, Kellyville & Dural",
+    "seoDescription": "Hill Shire Landscaping — 15+ years of soft & hard landscaping across The Hills Shire, NSW. Gardening, tree services, retaining walls, paving & turf. Free quotes. Call 0451 267 287.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-06T11:40:08.049Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-08-06T11:40:08.049Z",
+    "createdBy": "derek"
+  }
+]
