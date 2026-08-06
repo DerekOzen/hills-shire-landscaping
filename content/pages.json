@@ -19,7 +19,7 @@
   {
     "id": "pg-2",
     "path": "/gardener/",
-    "type": "page",
+    "type": "service",
     "title": "Garden Maintenance The Hills Shire | Gardening Services | Hill Shire Landscaping",
     "seoTitle": "Garden Maintenance The Hills Shire | Gardening Services | Hill Shire Landscaping",
     "seoDescription": "Reliable garden maintenance and gardening services across The Hills Shire, NSW. Regular or one-off — hedging, pruning, weeding, tidy-ups. Family-owned. Free quotes.",
@@ -29,13 +29,13 @@
     "status": "published",
     "createdAt": "2026-08-06T21:06:38.672Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T21:07:06.541Z",
+    "updatedAt": "2026-08-06T21:14:47.994Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-3",
     "path": "/landscape-design-construction/",
-    "type": "page",
+    "type": "service",
     "title": "Landscape Design & Construction The Hills Shire | Backyard Makeovers | Hill Shire Landscaping",
     "seoTitle": "Landscape Design & Construction The Hills Shire | Backyard Makeovers | Hill Shire Landscaping",
     "seoDescription": "Landscape design and construction across The Hills Shire, NSW. Full backyard makeovers and complete soft & hard landscaping builds by a family-owned local team. Free quotes.",
@@ -45,13 +45,13 @@
     "status": "published",
     "createdAt": "2026-08-06T21:06:38.672Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T21:07:32.484Z",
+    "updatedAt": "2026-08-06T21:14:47.994Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-4",
     "path": "/mulching/",
-    "type": "page",
+    "type": "service",
     "title": "Mulching Services The Hills Shire | Garden Mulching | Hill Shire Landscaping",
     "seoTitle": "Mulching Services The Hills Shire | Garden Mulching | Hill Shire Landscaping",
     "seoDescription": "Professional mulching services across The Hills Shire, NSW. Supply and spread quality mulch to protect your garden, save water and suppress weeds. Free quotes.",
@@ -61,13 +61,13 @@
     "status": "published",
     "createdAt": "2026-08-06T21:06:38.672Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T21:09:39.680Z",
+    "updatedAt": "2026-08-06T21:14:47.994Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-5",
     "path": "/pavers/",
-    "type": "page",
+    "type": "service",
     "title": "Paving & Driveways The Hills Shire | Paver Laying | Hill Shire Landscaping",
     "seoTitle": "Paving & Driveways The Hills Shire | Paver Laying | Hill Shire Landscaping",
     "seoDescription": "Paving and driveway services across The Hills Shire, NSW. Paths, patios, courtyards and driveway pavers laid on a proper base to last for years. Free quotes.",
@@ -77,13 +77,13 @@
     "status": "published",
     "createdAt": "2026-08-06T21:06:38.672Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T21:08:42.290Z",
+    "updatedAt": "2026-08-06T21:14:47.994Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-6",
     "path": "/retainer-walls/",
-    "type": "page",
+    "type": "service",
     "title": "Retaining Walls The Hills Shire | Retaining Wall Builders | Hill Shire Landscaping",
     "seoTitle": "Retaining Walls The Hills Shire | Retaining Wall Builders | Hill Shire Landscaping",
     "seoDescription": "Retaining wall construction across The Hills Shire, NSW. Timber, sleeper, block and masonry walls built to last on local slopes and clay soils. Free quotes.",
@@ -93,13 +93,13 @@
     "status": "published",
     "createdAt": "2026-08-06T21:06:38.672Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T21:08:31.825Z",
+    "updatedAt": "2026-08-06T21:14:47.994Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-7",
     "path": "/turf-laying/",
-    "type": "page",
+    "type": "service",
     "title": "Turf Laying The Hills Shire | New Lawn & Turf Supply | Hill Shire Landscaping",
     "seoTitle": "Turf Laying The Hills Shire | New Lawn & Turf Supply | Hill Shire Landscaping",
     "seoDescription": "Turf laying across The Hills Shire, NSW. We prep, level and lay quality turf for a fresh, healthy lawn that takes and lasts. Family-owned local team. Free quotes.",
@@ -109,13 +109,13 @@
     "status": "published",
     "createdAt": "2026-08-06T21:06:38.672Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T21:07:40.672Z",
+    "updatedAt": "2026-08-06T21:14:47.994Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-8",
     "path": "/weeding/",
-    "type": "page",
+    "type": "service",
     "title": "Weeding Services The Hills Shire | Garden Weed Removal | Hill Shire Landscaping",
     "seoTitle": "Weeding Services The Hills Shire | Garden Weed Removal | Hill Shire Landscaping",
     "seoDescription": "Weeding services across The Hills Shire, NSW. We clear weeds from beds, paths and paving and help keep them from coming back. Family-owned. Free quotes.",
@@ -125,7 +125,7 @@
     "status": "published",
     "createdAt": "2026-08-06T21:06:38.672Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T21:08:00.217Z",
+    "updatedAt": "2026-08-06T21:14:47.994Z",
     "updatedBy": "derek"
   },
   {
