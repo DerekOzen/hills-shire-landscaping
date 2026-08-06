@@ -78,10 +78,11 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-08-06T12:10:45.551Z",
+    "updatedAt": "2026-08-06T12:25:26.655Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:10:34.403Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "category": "Services"
   },
   {
     "id": "pg-6",
