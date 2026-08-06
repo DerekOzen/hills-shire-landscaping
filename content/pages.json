@@ -127,5 +127,37 @@
     "createdBy": "derek",
     "updatedAt": "2026-08-06T21:08:00.217Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-9",
+    "path": "/privacy-policy/",
+    "type": "page",
+    "title": "Privacy Policy | Hill Shire Landscaping",
+    "seoTitle": "Privacy Policy | Hill Shire Landscaping",
+    "seoDescription": "How Hill Shire Landscaping collects, uses and protects your personal information, in line with the Australian Privacy Principles.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-08-06T21:11:04.331Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-08-06T21:11:04.331Z",
+    "updatedBy": "derek"
+  },
+  {
+    "id": "pg-10",
+    "path": "/terms-and-conditions/",
+    "type": "page",
+    "title": "Terms & Conditions | Hill Shire Landscaping",
+    "seoTitle": "Terms & Conditions | Hill Shire Landscaping",
+    "seoDescription": "The terms and conditions for landscaping services provided by Hill Shire Landscaping across The Hills Shire, NSW.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-08-06T21:11:04.331Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-08-06T21:11:04.331Z",
+    "updatedBy": "derek"
   }
 ]
