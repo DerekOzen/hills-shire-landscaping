@@ -26,12 +26,13 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-08-06T12:16:32.554Z",
+    "status": "deleted",
+    "updatedAt": "2026-08-06T20:53:44.357Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:03:39.709Z",
     "createdBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-3",
@@ -43,12 +44,13 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-08-06T12:16:53.925Z",
+    "status": "deleted",
+    "updatedAt": "2026-08-06T20:53:44.357Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:04:28.471Z",
     "createdBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-4",
@@ -60,12 +62,13 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-08-06T12:24:38.956Z",
+    "status": "deleted",
+    "updatedAt": "2026-08-06T20:53:44.357Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:05:14.901Z",
     "createdBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-5",
@@ -77,12 +80,13 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-08-06T12:25:26.655Z",
+    "status": "deleted",
+    "updatedAt": "2026-08-06T20:53:44.357Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:10:34.403Z",
     "createdBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-6",
@@ -94,12 +98,13 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-08-06T12:24:44.987Z",
+    "status": "deleted",
+    "updatedAt": "2026-08-06T20:53:44.357Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:11:14.473Z",
     "createdBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-7",
@@ -111,12 +116,13 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-08-06T12:25:39.845Z",
+    "status": "deleted",
+    "updatedAt": "2026-08-06T20:53:44.357Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:12:06.379Z",
     "createdBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-8",
@@ -128,12 +134,13 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-08-06T12:25:12.504Z",
+    "status": "deleted",
+    "updatedAt": "2026-08-06T20:53:44.357Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:12:41.263Z",
     "createdBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-9",
@@ -145,12 +152,13 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-08-06T12:24:54.376Z",
+    "status": "deleted",
+    "updatedAt": "2026-08-06T20:53:44.357Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:13:16.048Z",
     "createdBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-10",
@@ -259,12 +267,13 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-08-06T12:37:31.561Z",
+    "status": "deleted",
+    "updatedAt": "2026-08-06T20:53:44.357Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:37:04.244Z",
     "createdBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-17",
