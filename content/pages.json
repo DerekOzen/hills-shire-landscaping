@@ -240,9 +240,10 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-08-06T12:20:44.443Z",
+    "updatedAt": "2026-08-06T12:24:57.302Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:19:50.202Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "category": "Services"
   }
 ]
