@@ -175,5 +175,37 @@
     "updatedBy": "derek",
     "createdAt": "2026-08-06T21:12:06.005Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-12",
+    "path": "/about-us/",
+    "type": "page",
+    "title": "About Hill Shire Landscaping | Family-Owned Landscapers in The Hills Shire",
+    "seoTitle": "About Hill Shire Landscaping | Family-Owned Landscapers in The Hills Shire",
+    "seoDescription": "Family-owned landscapers with 15+ years across The Hills Shire, NSW. Meet the local team behind Hill Shire Landscaping — soft & hard landscaping done properly. Call 0451 267 287.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-08-06T21:15:42.010Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-08-06T21:15:42.010Z",
+    "updatedBy": "derek"
+  },
+  {
+    "id": "pg-13",
+    "path": "/contact/",
+    "type": "page",
+    "title": "Contact Hill Shire Landscaping | Free Quotes Across The Hills Shire",
+    "seoTitle": "Contact Hill Shire Landscaping | Free Quotes Across The Hills Shire",
+    "seoDescription": "Contact Hill Shire Landscaping for a free, obligation-free quote. Family-owned landscapers servicing all of The Hills Shire, NSW. Call 0451 267 287 or email info@hillshirelandscaping.com.au.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-08-06T21:15:42.010Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-08-06T21:15:42.010Z",
+    "updatedBy": "derek"
   }
 ]
