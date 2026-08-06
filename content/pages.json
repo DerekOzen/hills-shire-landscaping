@@ -47,5 +47,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-08-06T12:04:28.471Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-4",
+    "path": "/pavers",
+    "type": "page",
+    "title": "Pavers",
+    "seoTitle": "Paving & Driveways The Hills Shire | Paver Laying | Hill Shire Landscaping",
+    "seoDescription": "Paving and driveway services across The Hills Shire, NSW. Paths, patios, courtyards and driveway pavers laid on a proper base to last for years. Free quotes.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-06T12:05:14.901Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-08-06T12:05:14.901Z",
+    "createdBy": "derek"
   }
 ]
