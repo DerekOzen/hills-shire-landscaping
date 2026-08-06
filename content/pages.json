@@ -520,7 +520,7 @@
   },
   {
     "id": "pg-32",
-    "path": "/service-areas/landscaping-rouse-hill-local-landscapers-in-rouse-hill-nsw-hill-shire-landscaping",
+    "path": "/service-areas/landscaping-rouse-hill/",
     "type": "location",
     "title": "Landscaping Rouse Hill | Local Landscapers in Rouse Hill, NSW | Hill Shire Landscaping",
     "seoTitle": "Landscaping Rouse Hill | Local Landscapers in Rouse Hill, NSW | Hill Shire Landscaping",
@@ -528,10 +528,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-06T17:58:21.753Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-06T19:01:10.274Z",
+    "updatedAt": "2026-08-06T20:33:30.944Z",
     "updatedBy": "derek"
   },
   {
