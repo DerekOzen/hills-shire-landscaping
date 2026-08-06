@@ -159,5 +159,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-08-06T21:11:31.075Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-11",
+    "path": "/thank-you",
+    "type": "page",
+    "title": "Thank You",
+    "seoTitle": "Thank You | Hill Shire Landscaping",
+    "seoDescription": "Thanks for your enquiry — Hill Shire Landscaping will be in touch shortly with your free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-06T21:12:06.005Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-08-06T21:12:06.005Z",
+    "createdBy": "derek"
   }
 ]
