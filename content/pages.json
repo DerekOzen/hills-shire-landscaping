@@ -834,7 +834,7 @@
   },
   {
     "id": "pg-51",
-    "path": "/service-areas/landscaping-cattai/",
+    "path": "/service-areas/landscaping-cattai",
     "type": "location",
     "title": "Landscaping Cattai | Local Landscapers in Cattai, NSW | Hill Shire Landscaping",
     "seoTitle": "Landscaping Cattai | Local Landscapers in Cattai, NSW | Hill Shire Landscaping",
@@ -842,10 +842,10 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-07T03:14:47.159Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-07T03:14:47.159Z",
+    "updatedAt": "2026-08-07T03:43:58.343Z",
     "updatedBy": "derek"
   },
   {
