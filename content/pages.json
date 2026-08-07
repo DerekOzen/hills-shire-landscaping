@@ -754,7 +754,7 @@
   },
   {
     "id": "pg-46",
-    "path": "/service-areas/landscaping-baulkham-hills/",
+    "path": "/service-areas/landscaping-baulkham-hills",
     "type": "location",
     "title": "Landscaping Baulkham Hills | Local Landscapers in Baulkham Hills, NSW | Hill Shire Landscaping",
     "seoTitle": "Landscaping Baulkham Hills | Local Landscapers in Baulkham Hills, NSW | Hill Shire Landscaping",
@@ -762,10 +762,10 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-07T03:14:47.159Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-07T03:14:47.159Z",
+    "updatedAt": "2026-08-07T03:41:07.509Z",
     "updatedBy": "derek"
   },
   {
