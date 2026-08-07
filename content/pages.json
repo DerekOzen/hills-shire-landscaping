@@ -690,7 +690,7 @@
   },
   {
     "id": "pg-42",
-    "path": "/tree-services/",
+    "path": "/tree-services",
     "type": "service",
     "title": "Tree Services The Hills Shire | Tree Removal & Pruning | Hill Shire Landscaping",
     "seoTitle": "Tree Services The Hills Shire | Tree Removal & Pruning | Hill Shire Landscaping",
@@ -698,10 +698,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-07T03:10:59.556Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-07T03:10:59.556Z",
+    "updatedAt": "2026-08-07T03:37:02.313Z",
     "updatedBy": "derek"
   },
   {
