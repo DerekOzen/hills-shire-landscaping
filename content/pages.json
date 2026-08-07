@@ -658,7 +658,7 @@
   },
   {
     "id": "pg-40",
-    "path": "/retainer-walls/",
+    "path": "/retainer-walls",
     "type": "service",
     "title": "Retaining Walls The Hills Shire | Retaining Wall Builders | Hill Shire Landscaping",
     "seoTitle": "Retaining Walls The Hills Shire | Retaining Wall Builders | Hill Shire Landscaping",
@@ -666,10 +666,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-07T03:10:59.556Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-07T03:10:59.556Z",
+    "updatedAt": "2026-08-07T03:36:08.878Z",
     "updatedBy": "derek"
   },
   {
