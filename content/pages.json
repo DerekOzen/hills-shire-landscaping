@@ -1039,5 +1039,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-08-07T03:15:24.023Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-64",
+    "path": "/contact",
+    "type": "page",
+    "title": "Contact",
+    "seoTitle": "Contact Hill Shire Landscaping | Free Quotes Across The Hills Shire",
+    "seoDescription": "Contact Hill Shire Landscaping for a free, obligation-free quote. Family-owned landscapers servicing all of The Hills Shire, NSW. Call 0451 267 287 or email info@hillshirelandscaping.com.au.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-07T03:16:41.186Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-08-07T03:16:41.186Z",
+    "createdBy": "derek"
   }
 ]
