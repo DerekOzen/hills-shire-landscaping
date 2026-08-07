@@ -898,7 +898,7 @@
   },
   {
     "id": "pg-55",
-    "path": "/service-areas/landscaping-kellyville/",
+    "path": "/service-areas/landscaping-kellyville",
     "type": "location",
     "title": "Landscaping Kellyville | Local Landscapers in Kellyville, NSW | Hill Shire Landscaping",
     "seoTitle": "Landscaping Kellyville | Local Landscapers in Kellyville, NSW | Hill Shire Landscaping",
@@ -906,10 +906,10 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-07T03:14:47.159Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-07T03:14:47.159Z",
+    "updatedAt": "2026-08-07T03:45:14.531Z",
     "updatedBy": "derek"
   },
   {
