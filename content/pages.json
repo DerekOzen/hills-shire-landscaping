@@ -818,7 +818,7 @@
   },
   {
     "id": "pg-50",
-    "path": "/service-areas/landscaping-castle-hill/",
+    "path": "/service-areas/landscaping-castle-hill",
     "type": "location",
     "title": "Landscaping Castle Hill | Local Landscapers in Castle Hill, NSW | Hill Shire Landscaping",
     "seoTitle": "Landscaping Castle Hill | Local Landscapers in Castle Hill, NSW | Hill Shire Landscaping",
@@ -826,10 +826,10 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-07T03:14:47.159Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-07T03:14:47.159Z",
+    "updatedAt": "2026-08-07T03:43:14.386Z",
     "updatedBy": "derek"
   },
   {
