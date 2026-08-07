@@ -722,7 +722,7 @@
   },
   {
     "id": "pg-44",
-    "path": "/weeding/",
+    "path": "/weeding",
     "type": "service",
     "title": "Weeding Services The Hills Shire | Garden Weed Removal | Hill Shire Landscaping",
     "seoTitle": "Weeding Services The Hills Shire | Garden Weed Removal | Hill Shire Landscaping",
@@ -730,10 +730,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-07T03:10:59.556Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-07T03:10:59.556Z",
+    "updatedAt": "2026-08-07T03:36:37.356Z",
     "updatedBy": "derek"
   },
   {
