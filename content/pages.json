@@ -882,7 +882,7 @@
   },
   {
     "id": "pg-54",
-    "path": "/service-areas/landscaping-glenorie/",
+    "path": "/service-areas/landscaping-glenorie",
     "type": "location",
     "title": "Landscaping Glenorie | Local Landscapers in Glenorie, NSW | Hill Shire Landscaping",
     "seoTitle": "Landscaping Glenorie | Local Landscapers in Glenorie, NSW | Hill Shire Landscaping",
@@ -890,10 +890,10 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-07T03:14:47.159Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-07T03:14:47.159Z",
+    "updatedAt": "2026-08-07T03:44:02.829Z",
     "updatedBy": "derek"
   },
   {
