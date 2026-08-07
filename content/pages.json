@@ -802,7 +802,7 @@
   },
   {
     "id": "pg-49",
-    "path": "/service-areas/landscaping-box-hill/",
+    "path": "/service-areas/landscaping-box-hill",
     "type": "location",
     "title": "Landscaping Box Hill | Local Landscapers in Box Hill, NSW | Hill Shire Landscaping",
     "seoTitle": "Landscaping Box Hill | Local Landscapers in Box Hill, NSW | Hill Shire Landscaping",
@@ -810,10 +810,10 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-07T03:14:47.159Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-07T03:14:47.159Z",
+    "updatedAt": "2026-08-07T03:42:52.260Z",
     "updatedBy": "derek"
   },
   {
