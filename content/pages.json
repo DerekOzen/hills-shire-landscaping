@@ -914,7 +914,7 @@
   },
   {
     "id": "pg-56",
-    "path": "/service-areas/landscaping-kenthurst/",
+    "path": "/service-areas/landscaping-kenthurst",
     "type": "location",
     "title": "Landscaping Kenthurst | Local Landscapers in Kenthurst, NSW | Hill Shire Landscaping",
     "seoTitle": "Landscaping Kenthurst | Local Landscapers in Kenthurst, NSW | Hill Shire Landscaping",
@@ -922,10 +922,10 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-07T03:14:47.159Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-07T03:14:47.159Z",
+    "updatedAt": "2026-08-07T03:46:06.784Z",
     "updatedBy": "derek"
   },
   {
