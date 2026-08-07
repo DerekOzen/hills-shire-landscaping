@@ -946,7 +946,7 @@
   },
   {
     "id": "pg-58",
-    "path": "/service-areas/landscaping-maroota/",
+    "path": "/service-areas/landscaping-maroota",
     "type": "location",
     "title": "Landscaping Maroota | Local Landscapers in Maroota, NSW | Hill Shire Landscaping",
     "seoTitle": "Landscaping Maroota | Local Landscapers in Maroota, NSW | Hill Shire Landscaping",
@@ -954,10 +954,10 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-07T03:14:47.159Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-07T03:14:47.159Z",
+    "updatedAt": "2026-08-07T03:47:28.841Z",
     "updatedBy": "derek"
   },
   {
