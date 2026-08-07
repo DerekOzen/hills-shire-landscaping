@@ -866,7 +866,7 @@
   },
   {
     "id": "pg-53",
-    "path": "/service-areas/landscaping-glenhaven/",
+    "path": "/service-areas/landscaping-glenhaven",
     "type": "location",
     "title": "Landscaping Glenhaven | Local Landscapers in Glenhaven, NSW | Hill Shire Landscaping",
     "seoTitle": "Landscaping Glenhaven | Local Landscapers in Glenhaven, NSW | Hill Shire Landscaping",
@@ -874,10 +874,10 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-07T03:14:47.159Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-07T03:14:47.159Z",
+    "updatedAt": "2026-08-07T03:44:27.867Z",
     "updatedBy": "derek"
   },
   {
