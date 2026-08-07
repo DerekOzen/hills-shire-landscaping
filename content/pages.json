@@ -930,7 +930,7 @@
   },
   {
     "id": "pg-57",
-    "path": "/service-areas/landscaping-leets-vale/",
+    "path": "/service-areas/landscaping-leets-vale",
     "type": "location",
     "title": "Landscaping Leets Vale | Local Landscapers in Leets Vale, NSW | Hill Shire Landscaping",
     "seoTitle": "Landscaping Leets Vale | Local Landscapers in Leets Vale, NSW | Hill Shire Landscaping",
@@ -938,10 +938,10 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-07T03:14:47.159Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-07T03:14:47.159Z",
+    "updatedAt": "2026-08-07T03:47:13.787Z",
     "updatedBy": "derek"
   },
   {
