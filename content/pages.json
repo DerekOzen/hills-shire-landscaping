@@ -1010,7 +1010,7 @@
   },
   {
     "id": "pg-62",
-    "path": "/service-areas/landscaping-west-pennant-hills/",
+    "path": "/service-areas/landscaping-west-pennant-hills",
     "type": "location",
     "title": "Landscaping West Pennant Hills | Local Landscapers in West Pennant Hills, NSW | Hill Shire Landscaping",
     "seoTitle": "Landscaping West Pennant Hills | Local Landscapers in West Pennant Hills, NSW | Hill Shire Landscaping",
@@ -1018,10 +1018,10 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-07T03:14:47.159Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-07T03:14:47.159Z",
+    "updatedAt": "2026-08-07T03:54:06.745Z",
     "updatedBy": "derek"
   },
   {
