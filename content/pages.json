@@ -706,7 +706,7 @@
   },
   {
     "id": "pg-43",
-    "path": "/turf-laying/",
+    "path": "/turf-laying",
     "type": "service",
     "title": "Turf Laying The Hills Shire | New Lawn & Turf Supply | Hill Shire Landscaping",
     "seoTitle": "Turf Laying The Hills Shire | New Lawn & Turf Supply | Hill Shire Landscaping",
@@ -714,10 +714,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-07T03:10:59.556Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-07T03:10:59.556Z",
+    "updatedAt": "2026-08-07T03:36:47.851Z",
     "updatedBy": "derek"
   },
   {
