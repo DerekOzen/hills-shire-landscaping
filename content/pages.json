@@ -786,7 +786,7 @@
   },
   {
     "id": "pg-48",
-    "path": "/service-areas/landscaping-bella-vista/",
+    "path": "/service-areas/landscaping-bella-vista",
     "type": "location",
     "title": "Landscaping Bella Vista | Local Landscapers in Bella Vista, NSW | Hill Shire Landscaping",
     "seoTitle": "Landscaping Bella Vista | Local Landscapers in Bella Vista, NSW | Hill Shire Landscaping",
@@ -794,10 +794,10 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-07T03:14:47.159Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-07T03:14:47.159Z",
+    "updatedAt": "2026-08-07T03:42:46.137Z",
     "updatedBy": "derek"
   },
   {
