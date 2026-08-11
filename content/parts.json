@@ -30,7 +30,7 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap"
     ],
-    "updatedAt": "2026-08-11T21:40:08.286Z",
+    "updatedAt": "2026-08-11T22:17:54.433Z",
     "settings": {
       "sticky": false,
       "autoHide": false,
@@ -110,7 +110,8 @@
           "hideMobile": false
         }
       ]
-    }
+    },
+    "deleted": true
   },
   {
     "id": "footer-2",
