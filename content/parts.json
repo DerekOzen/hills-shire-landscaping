@@ -30,7 +30,87 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap"
     ],
-    "updatedAt": "2026-08-11T21:11:19.758Z"
+    "updatedAt": "2026-08-11T21:40:08.286Z",
+    "settings": {
+      "sticky": false,
+      "autoHide": false,
+      "scrollBreakpoint": 60,
+      "transparent": false,
+      "shadow": "none",
+      "mobileMenu": false,
+      "mobileBreakpoint": 900
+    },
+    "layout": {
+      "enabled": true,
+      "accent": "#0f766e",
+      "maxWidth": 1200,
+      "rows": [
+        {
+          "id": "row-51221ebf",
+          "left": [
+            {
+              "id": "el-beaf6ef0",
+              "type": "logo",
+              "hideMobile": false,
+              "props": {
+                "src": "/uploads/hillshire-logo-9472f76d.png",
+                "alt": "Logo",
+                "href": "/",
+                "height": 40
+              }
+            }
+          ],
+          "center": [
+            {
+              "id": "el-efb0a517",
+              "type": "menu",
+              "hideMobile": false,
+              "props": {
+                "links": [
+                  {
+                    "label": "Home",
+                    "href": "/"
+                  },
+                  {
+                    "label": "About",
+                    "href": "/about"
+                  },
+                  {
+                    "label": "Services",
+                    "href": "/services"
+                  },
+                  {
+                    "label": "Contact",
+                    "href": "/contact"
+                  }
+                ],
+                "menuId": "menu-1"
+              }
+            }
+          ],
+          "right": [
+            {
+              "id": "el-20fb4e4f",
+              "type": "button",
+              "hideMobile": false,
+              "props": {
+                "label": "Get a Free Quote",
+                "href": "/contact"
+              },
+              "style": {
+                "bg": "#E08A00",
+                "borderColor": "#000000",
+                "color": "#000000"
+              }
+            }
+          ],
+          "bg": "#ffffff",
+          "color": "#0f172a",
+          "height": 64,
+          "hideMobile": false
+        }
+      ]
+    }
   },
   {
     "id": "footer-2",
