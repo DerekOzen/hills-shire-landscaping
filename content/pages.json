@@ -115,7 +115,7 @@
   },
   {
     "id": "pg-38",
-    "path": "/mulching/",
+    "path": "/mulching",
     "type": "service",
     "title": "Mulching Services The Hills Shire | Garden Mulching | Hill Shire Landscaping",
     "seoTitle": "Mulching Services The Hills Shire | Garden Mulching | Hill Shire Landscaping",
@@ -126,8 +126,8 @@
     "status": "published",
     "createdAt": "2026-08-07T03:10:59.556Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-11T22:19:31.938Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-11T06:12:25.873Z",
+    "updatedBy": "sebastian"
   },
   {
     "id": "pg-39",
