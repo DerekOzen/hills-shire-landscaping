@@ -131,7 +131,7 @@
   },
   {
     "id": "pg-39",
-    "path": "/pavers/",
+    "path": "/pavers",
     "type": "service",
     "title": "Paving & Driveways The Hills Shire | Paver Laying | Hill Shire Landscaping",
     "seoTitle": "Paving & Driveways The Hills Shire | Paver Laying | Hill Shire Landscaping",
@@ -142,8 +142,8 @@
     "status": "published",
     "createdAt": "2026-08-07T03:10:59.556Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-11T22:19:31.938Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-11T06:10:13.281Z",
+    "updatedBy": "sebastian"
   },
   {
     "id": "pg-40",

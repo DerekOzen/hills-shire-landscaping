@@ -98,147 +98,197 @@
   "body": "",
   "_schemas": [
     {
-      "type": "LandscapingBusiness",
+      "type": "Custom",
       "data": {
-        "@type": "LandscapingBusiness",
-        "name": "Hill Shire Landscaping",
-        "image": "https://hillshirelandscaping.com.au/logo.png",
-        "url": "https://hillshirelandscaping.com.au",
-        "telephone": "0451 267 287",
-        "email": "info@hillshirelandscaping.com.au",
-        "priceRange": "$$",
-        "areaServed": [
+        "@context": "https://schema.org",
+        "@graph": [
           {
-            "@type": "Place",
-            "name": "Annangrove, NSW"
+            "@type": "LocalBusiness",
+            "@id": "https://hillshirelandscaping.com.au/#localbusiness",
+            "name": "Hill Shire Landscaping",
+            "url": "https://hillshirelandscaping.com.au/",
+            "telephone": "0451 267 287",
+            "email": "info@hillshirelandscaping.com.au",
+            "description": "Soft and hard landscaping across The Hills Shire, NSW. 15+ years experience in landscaping, gardening, tree services, retaining walls, paving and turf.",
+            "openingHours": "Mo-Sa 07:00-17:00",
+            "identifier": {
+              "@type": "PropertyValue",
+              "propertyID": "ABN",
+              "value": "15 938 183 499"
+            },
+            "areaServed": [
+              {
+                "@type": "AdministrativeArea",
+                "name": "The Hills Shire"
+              },
+              {
+                "@type": "Place",
+                "name": "Annangrove, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Baulkham Hills, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Beaumont Hills, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Bella Vista, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Box Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Castle Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Cattai, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Dural, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Glenhaven, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Glenorie, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Kellyville, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Kenthurst, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Leets Vale, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Maroota, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Nelson, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Rouse Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Sackville North, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "West Pennant Hills, NSW"
+              }
+            ]
           },
           {
-            "@type": "Place",
-            "name": "Baulkham Hills, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Beaumont Hills, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Bella Vista, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Box Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Castle Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Cattai, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Dural, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Glenhaven, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Glenorie, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Kellyville, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Kenthurst, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Leets Vale, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Maroota, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Nelson, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Rouse Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Sackville North, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "West Pennant Hills, NSW"
-          }
-        ],
-        "address": {
-          "@type": "PostalAddress",
-          "addressRegion": "NSW",
-          "addressLocality": "The Hills Shire",
-          "addressCountry": "AU"
-        },
-        "openingHours": "Mo-Sa 07:00-17:00",
-        "description": "Family-owned soft and hard landscaping across The Hills Shire, NSW. 15+ years in landscaping, gardening, tree services, retaining walls, paving and turf."
-      }
-    },
-    {
-      "type": "FAQPage",
-      "data": {
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "How long does a paved driveway last?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Laid on a properly prepared and compacted base, a quality paved driveway will last many years and take daily vehicle use in its stride. Poor base prep is what shortens their life - and that's exactly what we get right."
+            "@type": "WebSite",
+            "@id": "https://hillshirelandscaping.com.au/#website",
+            "url": "https://hillshirelandscaping.com.au/",
+            "name": "Hill Shire Landscaping",
+            "publisher": {
+              "@id": "https://hillshirelandscaping.com.au/#localbusiness"
             }
           },
           {
-            "@type": "Question",
-            "name": "Can you match pavers to my home?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes - there's a big range of colours, shapes and finishes. We'll help you choose something that suits your house and the rest of your landscaping."
-            }
+            "@type": [
+              "WebPage",
+              "FAQPage"
+            ],
+            "@id": "https://hillshirelandscaping.com.au/pavers/#webpage",
+            "url": "https://hillshirelandscaping.com.au/pavers/",
+            "name": "Paving & Driveways in The Hills Shire",
+            "inLanguage": "en-AU",
+            "isPartOf": {
+              "@id": "https://hillshirelandscaping.com.au/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://hillshirelandscaping.com.au/pavers/#breadcrumb"
+            },
+            "about": {
+              "@id": "https://hillshirelandscaping.com.au/pavers/#service"
+            },
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "How long does a paved driveway last?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Laid on a properly prepared and compacted base, a quality paved driveway will last many years and take daily vehicle use in its stride. Poor base prep is what shortens their life - and that's exactly what we get right."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Can you match pavers to my home?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Yes - there's a big range of colours, shapes and finishes. We'll help you choose something that suits your house and the rest of your landscaping."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Do you fix drainage and falls?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Always. We lay to correct falls so water runs off the surface and away from the house, rather than pooling on your new paving."
+                }
+              }
+            ]
           },
           {
-            "@type": "Question",
-            "name": "Do you fix drainage and falls?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Always. We lay to correct falls so water runs off the surface and away from the house, rather than pooling on your new paving."
+            "@type": "BreadcrumbList",
+            "@id": "https://hillshirelandscaping.com.au/pavers/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://hillshirelandscaping.com.au/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Services",
+                "item": "https://hillshirelandscaping.com.au/services/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Paving & Driveways",
+                "item": "https://hillshirelandscaping.com.au/pavers/"
+              }
+            ]
+          },
+          {
+            "@type": "Service",
+            "@id": "https://hillshirelandscaping.com.au/pavers/#service",
+            "name": "Paving & Driveways",
+            "serviceType": "Paving & Driveways",
+            "url": "https://hillshirelandscaping.com.au/pavers/",
+            "description": "Paths, patios and driveways laid on a properly excavated and compacted base with correct drainage falls across The Hills Shire.",
+            "provider": {
+              "@id": "https://hillshirelandscaping.com.au/#localbusiness"
+            },
+            "areaServed": {
+              "@type": "AdministrativeArea",
+              "name": "The Hills Shire"
             }
           }
         ]
-      }
-    },
-    {
-      "type": "Service",
-      "data": {
-        "@type": "Service",
-        "serviceType": "Paving and Driveways",
-        "provider": {
-          "@type": "LandscapingBusiness",
-          "name": "Hill Shire Landscaping",
-          "telephone": "0451 267 287",
-          "email": "info@hillshirelandscaping.com.au"
-        },
-        "areaServed": {
-          "@type": "AdministrativeArea",
-          "name": "The Hills Shire, NSW"
-        },
-        "description": "Paving and driveway services across The Hills Shire, NSW. Paths, patios, courtyards and driveway pavers laid on a proper base to last for years. Free quotes."
       }
     }
   ]
