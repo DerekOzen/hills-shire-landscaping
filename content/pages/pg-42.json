@@ -98,147 +98,197 @@
   "body": "",
   "_schemas": [
     {
-      "type": "LandscapingBusiness",
+      "type": "Custom",
       "data": {
-        "@type": "LandscapingBusiness",
-        "name": "Hill Shire Landscaping",
-        "image": "https://hillshirelandscaping.com.au/logo.png",
-        "url": "https://hillshirelandscaping.com.au",
-        "telephone": "0451 267 287",
-        "email": "info@hillshirelandscaping.com.au",
-        "priceRange": "$$",
-        "areaServed": [
+        "@context": "https://schema.org",
+        "@graph": [
           {
-            "@type": "Place",
-            "name": "Annangrove, NSW"
+            "@type": "LocalBusiness",
+            "@id": "https://hillshirelandscaping.com.au/#localbusiness",
+            "name": "Hill Shire Landscaping",
+            "url": "https://hillshirelandscaping.com.au/",
+            "telephone": "0451 267 287",
+            "email": "info@hillshirelandscaping.com.au",
+            "description": "Soft and hard landscaping across The Hills Shire, NSW. 15+ years experience in landscaping, gardening, tree services, retaining walls, paving and turf.",
+            "openingHours": "Mo-Sa 07:00-17:00",
+            "identifier": {
+              "@type": "PropertyValue",
+              "propertyID": "ABN",
+              "value": "15 938 183 499"
+            },
+            "areaServed": [
+              {
+                "@type": "AdministrativeArea",
+                "name": "The Hills Shire"
+              },
+              {
+                "@type": "Place",
+                "name": "Annangrove, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Baulkham Hills, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Beaumont Hills, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Bella Vista, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Box Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Castle Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Cattai, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Dural, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Glenhaven, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Glenorie, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Kellyville, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Kenthurst, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Leets Vale, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Maroota, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Nelson, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Rouse Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Sackville North, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "West Pennant Hills, NSW"
+              }
+            ]
           },
           {
-            "@type": "Place",
-            "name": "Baulkham Hills, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Beaumont Hills, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Bella Vista, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Box Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Castle Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Cattai, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Dural, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Glenhaven, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Glenorie, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Kellyville, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Kenthurst, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Leets Vale, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Maroota, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Nelson, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Rouse Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Sackville North, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "West Pennant Hills, NSW"
-          }
-        ],
-        "address": {
-          "@type": "PostalAddress",
-          "addressRegion": "NSW",
-          "addressLocality": "The Hills Shire",
-          "addressCountry": "AU"
-        },
-        "openingHours": "Mo-Sa 07:00-17:00",
-        "description": "Family-owned soft and hard landscaping across The Hills Shire, NSW. 15+ years in landscaping, gardening, tree services, retaining walls, paving and turf."
-      }
-    },
-    {
-      "type": "FAQPage",
-      "data": {
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "Do I need council approval to remove a tree?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Some trees are protected under The Hills Shire Council's rules and need approval before removal. We'll give you honest guidance and always recommend checking with council where a permit may be required."
+            "@type": "WebSite",
+            "@id": "https://hillshirelandscaping.com.au/#website",
+            "url": "https://hillshirelandscaping.com.au/",
+            "name": "Hill Shire Landscaping",
+            "publisher": {
+              "@id": "https://hillshirelandscaping.com.au/#localbusiness"
             }
           },
           {
-            "@type": "Question",
-            "name": "Do you clean up afterwards?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Always. We clear the branches, rake up the debris and cart the green waste away, so you're left with a tidy yard, not a pile of mess."
-            }
+            "@type": [
+              "WebPage",
+              "FAQPage"
+            ],
+            "@id": "https://hillshirelandscaping.com.au/tree-services/#webpage",
+            "url": "https://hillshirelandscaping.com.au/tree-services/",
+            "name": "Tree Services in The Hills Shire",
+            "inLanguage": "en-AU",
+            "isPartOf": {
+              "@id": "https://hillshirelandscaping.com.au/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://hillshirelandscaping.com.au/tree-services/#breadcrumb"
+            },
+            "about": {
+              "@id": "https://hillshirelandscaping.com.au/tree-services/#service"
+            },
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "Do I need council approval to remove a tree?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Some trees are protected under The Hills Shire Council's rules and need approval before removal. We'll give you honest guidance and always recommend checking with council where a permit may be required."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Do you clean up afterwards?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Always. We clear the branches, rake up the debris and cart the green waste away, so you're left with a tidy yard, not a pile of mess."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Can you just prune rather than remove a tree?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Yes - often a good prune, thin or lop is all a tree needs. We'll advise what's best for the tree and your space."
+                }
+              }
+            ]
           },
           {
-            "@type": "Question",
-            "name": "Can you just prune rather than remove a tree?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes - often a good prune, thin or lop is all a tree needs. We'll advise what's best for the tree and your space."
+            "@type": "BreadcrumbList",
+            "@id": "https://hillshirelandscaping.com.au/tree-services/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://hillshirelandscaping.com.au/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Services",
+                "item": "https://hillshirelandscaping.com.au/services/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Tree Services",
+                "item": "https://hillshirelandscaping.com.au/tree-services/"
+              }
+            ]
+          },
+          {
+            "@type": "Service",
+            "@id": "https://hillshirelandscaping.com.au/tree-services/#service",
+            "name": "Tree Services",
+            "serviceType": "Tree Services",
+            "url": "https://hillshirelandscaping.com.au/tree-services/",
+            "description": "Tree removal, pruning, cutting and lopping with full clean up and debris removal across The Hills Shire.",
+            "provider": {
+              "@id": "https://hillshirelandscaping.com.au/#localbusiness"
+            },
+            "areaServed": {
+              "@type": "AdministrativeArea",
+              "name": "The Hills Shire"
             }
           }
         ]
-      }
-    },
-    {
-      "type": "Service",
-      "data": {
-        "@type": "Service",
-        "serviceType": "Tree Services",
-        "provider": {
-          "@type": "LandscapingBusiness",
-          "name": "Hill Shire Landscaping",
-          "telephone": "0451 267 287",
-          "email": "info@hillshirelandscaping.com.au"
-        },
-        "areaServed": {
-          "@type": "AdministrativeArea",
-          "name": "The Hills Shire, NSW"
-        },
-        "description": "Tree services across The Hills Shire, NSW &mdash; tree removal, pruning, cutting and lopping. Safe work, mess cleaned up. Family-owned local team. Free quotes."
       }
     }
   ]
