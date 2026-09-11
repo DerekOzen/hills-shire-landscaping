@@ -98,147 +98,197 @@
   "body": "",
   "_schemas": [
     {
-      "type": "LandscapingBusiness",
+      "type": "Custom",
       "data": {
-        "@type": "LandscapingBusiness",
-        "name": "Hill Shire Landscaping",
-        "image": "https://hillshirelandscaping.com.au/logo.png",
-        "url": "https://hillshirelandscaping.com.au",
-        "telephone": "0451 267 287",
-        "email": "info@hillshirelandscaping.com.au",
-        "priceRange": "$$",
-        "areaServed": [
+        "@context": "https://schema.org",
+        "@graph": [
           {
-            "@type": "Place",
-            "name": "Annangrove, NSW"
+            "@type": "LocalBusiness",
+            "@id": "https://hillshirelandscaping.com.au/#localbusiness",
+            "name": "Hill Shire Landscaping",
+            "url": "https://hillshirelandscaping.com.au/",
+            "telephone": "0451 267 287",
+            "email": "info@hillshirelandscaping.com.au",
+            "description": "Soft and hard landscaping across The Hills Shire, NSW. 15+ years experience in landscaping, gardening, tree services, retaining walls, paving and turf.",
+            "openingHours": "Mo-Sa 07:00-17:00",
+            "identifier": {
+              "@type": "PropertyValue",
+              "propertyID": "ABN",
+              "value": "15 938 183 499"
+            },
+            "areaServed": [
+              {
+                "@type": "AdministrativeArea",
+                "name": "The Hills Shire"
+              },
+              {
+                "@type": "Place",
+                "name": "Annangrove, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Baulkham Hills, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Beaumont Hills, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Bella Vista, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Box Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Castle Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Cattai, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Dural, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Glenhaven, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Glenorie, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Kellyville, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Kenthurst, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Leets Vale, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Maroota, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Nelson, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Rouse Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Sackville North, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "West Pennant Hills, NSW"
+              }
+            ]
           },
           {
-            "@type": "Place",
-            "name": "Baulkham Hills, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Beaumont Hills, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Bella Vista, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Box Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Castle Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Cattai, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Dural, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Glenhaven, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Glenorie, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Kellyville, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Kenthurst, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Leets Vale, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Maroota, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Nelson, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Rouse Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Sackville North, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "West Pennant Hills, NSW"
-          }
-        ],
-        "address": {
-          "@type": "PostalAddress",
-          "addressRegion": "NSW",
-          "addressLocality": "The Hills Shire",
-          "addressCountry": "AU"
-        },
-        "openingHours": "Mo-Sa 07:00-17:00",
-        "description": "Family-owned soft and hard landscaping across The Hills Shire, NSW. 15+ years in landscaping, gardening, tree services, retaining walls, paving and turf."
-      }
-    },
-    {
-      "type": "FAQPage",
-      "data": {
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "What's the best turf for The Hills Shire?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "It depends on your yard - some varieties handle shade better, others are tougher for kids and pets or greener through winter. We'll match a variety to your block and how you'll use it."
+            "@type": "WebSite",
+            "@id": "https://hillshirelandscaping.com.au/#website",
+            "url": "https://hillshirelandscaping.com.au/",
+            "name": "Hill Shire Landscaping",
+            "publisher": {
+              "@id": "https://hillshirelandscaping.com.au/#localbusiness"
             }
           },
           {
-            "@type": "Question",
-            "name": "How do I look after new turf?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "The first few weeks matter most - keep it well watered so the roots take, and hold off heavy use. We give you simple aftercare guidance when we finish, and can handle ongoing mowing if you like."
-            }
+            "@type": [
+              "WebPage",
+              "FAQPage"
+            ],
+            "@id": "https://hillshirelandscaping.com.au/turf-laying/#webpage",
+            "url": "https://hillshirelandscaping.com.au/turf-laying/",
+            "name": "Turf Laying in The Hills Shire",
+            "inLanguage": "en-AU",
+            "isPartOf": {
+              "@id": "https://hillshirelandscaping.com.au/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://hillshirelandscaping.com.au/turf-laying/#breadcrumb"
+            },
+            "about": {
+              "@id": "https://hillshirelandscaping.com.au/turf-laying/#service"
+            },
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What's the best turf for The Hills Shire?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "It depends on your yard - some varieties handle shade better, others are tougher for kids and pets or greener through winter. We'll match a variety to your block and how you'll use it."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How do I look after new turf?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "The first few weeks matter most - keep it well watered so the roots take, and hold off heavy use. We give you simple aftercare guidance when we finish, and can handle ongoing mowing if you like."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Do I need to prepare the ground first?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "No - we handle the lot: clearing the old surface, levelling, laying underlay and laying the turf. Good prep is exactly why our lawns take and last."
+                }
+              }
+            ]
           },
           {
-            "@type": "Question",
-            "name": "Do I need to prepare the ground first?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "No - we handle the lot: clearing the old surface, levelling, laying underlay and laying the turf. Good prep is exactly why our lawns take and last."
+            "@type": "BreadcrumbList",
+            "@id": "https://hillshirelandscaping.com.au/turf-laying/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://hillshirelandscaping.com.au/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Services",
+                "item": "https://hillshirelandscaping.com.au/services/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Turf Laying",
+                "item": "https://hillshirelandscaping.com.au/turf-laying/"
+              }
+            ]
+          },
+          {
+            "@type": "Service",
+            "@id": "https://hillshirelandscaping.com.au/turf-laying/#service",
+            "name": "Turf Laying",
+            "serviceType": "Turf Laying",
+            "url": "https://hillshirelandscaping.com.au/turf-laying/",
+            "description": "Supply and laying of quality turf after ground preparation, grading and levelling to establish a healthy lawn across The Hills Shire.",
+            "provider": {
+              "@id": "https://hillshirelandscaping.com.au/#localbusiness"
+            },
+            "areaServed": {
+              "@type": "AdministrativeArea",
+              "name": "The Hills Shire"
             }
           }
         ]
-      }
-    },
-    {
-      "type": "Service",
-      "data": {
-        "@type": "Service",
-        "serviceType": "Turf Laying",
-        "provider": {
-          "@type": "LandscapingBusiness",
-          "name": "Hill Shire Landscaping",
-          "telephone": "0451 267 287",
-          "email": "info@hillshirelandscaping.com.au"
-        },
-        "areaServed": {
-          "@type": "AdministrativeArea",
-          "name": "The Hills Shire, NSW"
-        },
-        "description": "Turf laying across The Hills Shire, NSW. We prep, level and lay quality turf for a fresh, healthy lawn that takes and lasts. Family-owned local team. Free quotes."
       }
     }
   ]
