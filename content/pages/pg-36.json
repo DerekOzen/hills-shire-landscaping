@@ -98,147 +98,197 @@
   "body": "",
   "_schemas": [
     {
-      "type": "LandscapingBusiness",
+      "type": "Custom",
       "data": {
-        "@type": "LandscapingBusiness",
-        "name": "Hill Shire Landscaping",
-        "image": "https://hillshirelandscaping.com.au/logo.png",
-        "url": "https://hillshirelandscaping.com.au",
-        "telephone": "0451 267 287",
-        "email": "info@hillshirelandscaping.com.au",
-        "priceRange": "$$",
-        "areaServed": [
+        "@context": "https://schema.org",
+        "@graph": [
           {
-            "@type": "Place",
-            "name": "Annangrove, NSW"
+            "@type": "LocalBusiness",
+            "@id": "https://hillshirelandscaping.com.au/#localbusiness",
+            "name": "Hill Shire Landscaping",
+            "url": "https://hillshirelandscaping.com.au/",
+            "telephone": "0451 267 287",
+            "email": "info@hillshirelandscaping.com.au",
+            "description": "Soft and hard landscaping across The Hills Shire, NSW. 15+ years experience in landscaping, gardening, tree services, retaining walls, paving and turf.",
+            "openingHours": "Mo-Sa 07:00-17:00",
+            "identifier": {
+              "@type": "PropertyValue",
+              "propertyID": "ABN",
+              "value": "15 938 183 499"
+            },
+            "areaServed": [
+              {
+                "@type": "AdministrativeArea",
+                "name": "The Hills Shire"
+              },
+              {
+                "@type": "Place",
+                "name": "Annangrove, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Baulkham Hills, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Beaumont Hills, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Bella Vista, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Box Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Castle Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Cattai, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Dural, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Glenhaven, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Glenorie, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Kellyville, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Kenthurst, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Leets Vale, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Maroota, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Nelson, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Rouse Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Sackville North, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "West Pennant Hills, NSW"
+              }
+            ]
           },
           {
-            "@type": "Place",
-            "name": "Baulkham Hills, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Beaumont Hills, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Bella Vista, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Box Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Castle Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Cattai, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Dural, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Glenhaven, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Glenorie, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Kellyville, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Kenthurst, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Leets Vale, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Maroota, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Nelson, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Rouse Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Sackville North, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "West Pennant Hills, NSW"
-          }
-        ],
-        "address": {
-          "@type": "PostalAddress",
-          "addressRegion": "NSW",
-          "addressLocality": "The Hills Shire",
-          "addressCountry": "AU"
-        },
-        "openingHours": "Mo-Sa 07:00-17:00",
-        "description": "Family-owned soft and hard landscaping across The Hills Shire, NSW. 15+ years in landscaping, gardening, tree services, retaining walls, paving and turf."
-      }
-    },
-    {
-      "type": "FAQPage",
-      "data": {
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "Do you offer regular or one-off garden maintenance?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Both. Plenty of our clients book us on a regular schedule, but we're just as happy to do a one-off tidy-up or seasonal clean-up when your garden needs it."
+            "@type": "WebSite",
+            "@id": "https://hillshirelandscaping.com.au/#website",
+            "url": "https://hillshirelandscaping.com.au/",
+            "name": "Hill Shire Landscaping",
+            "publisher": {
+              "@id": "https://hillshirelandscaping.com.au/#localbusiness"
             }
           },
           {
-            "@type": "Question",
-            "name": "What does a garden maintenance visit include?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Typically mowing, edging, hedging, pruning, weeding and a general tidy, with all the green waste taken away. We'll tailor it to your garden and what you want kept on top of."
-            }
+            "@type": [
+              "WebPage",
+              "FAQPage"
+            ],
+            "@id": "https://hillshirelandscaping.com.au/gardener/#webpage",
+            "url": "https://hillshirelandscaping.com.au/gardener/",
+            "name": "Garden Maintenance in The Hills Shire",
+            "inLanguage": "en-AU",
+            "isPartOf": {
+              "@id": "https://hillshirelandscaping.com.au/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://hillshirelandscaping.com.au/gardener/#breadcrumb"
+            },
+            "about": {
+              "@id": "https://hillshirelandscaping.com.au/gardener/#service"
+            },
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "Do you offer regular or one-off garden maintenance?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Both. Plenty of our clients book us on a regular schedule, but we're just as happy to do a one-off tidy-up or seasonal clean-up when your garden needs it."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "What does a garden maintenance visit include?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Typically mowing, edging, hedging, pruning, weeding and a general tidy, with all the green waste taken away. We'll tailor it to your garden and what you want kept on top of."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Do you look after investment or rental properties?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Yes - we maintain gardens for owners, landlords and property managers across the Hills Shire and can keep it low-fuss with regular visits."
+                }
+              }
+            ]
           },
           {
-            "@type": "Question",
-            "name": "Do you look after investment or rental properties?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes - we maintain gardens for owners, landlords and property managers across the Hills Shire and can keep it low-fuss with regular visits."
+            "@type": "BreadcrumbList",
+            "@id": "https://hillshirelandscaping.com.au/gardener/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://hillshirelandscaping.com.au/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Services",
+                "item": "https://hillshirelandscaping.com.au/services/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Gardening & Maintenance",
+                "item": "https://hillshirelandscaping.com.au/gardener/"
+              }
+            ]
+          },
+          {
+            "@type": "Service",
+            "@id": "https://hillshirelandscaping.com.au/gardener/#service",
+            "name": "Gardening & Maintenance",
+            "serviceType": "Gardening & Maintenance",
+            "url": "https://hillshirelandscaping.com.au/gardener/",
+            "description": "Ongoing garden maintenance across The Hills Shire, including lawns, garden beds and hedges, on scheduled visits or as one-off tidy-ups.",
+            "provider": {
+              "@id": "https://hillshirelandscaping.com.au/#localbusiness"
+            },
+            "areaServed": {
+              "@type": "AdministrativeArea",
+              "name": "The Hills Shire"
             }
           }
         ]
-      }
-    },
-    {
-      "type": "Service",
-      "data": {
-        "@type": "Service",
-        "serviceType": "Gardening and Maintenance",
-        "provider": {
-          "@type": "LandscapingBusiness",
-          "name": "Hill Shire Landscaping",
-          "telephone": "0451 267 287",
-          "email": "info@hillshirelandscaping.com.au"
-        },
-        "areaServed": {
-          "@type": "AdministrativeArea",
-          "name": "The Hills Shire, NSW"
-        },
-        "description": "Reliable garden maintenance and gardening services across The Hills Shire, NSW. Regular or one-off &mdash; hedging, pruning, weeding, tidy-ups. Family-owned. Free quotes."
       }
     }
   ]
