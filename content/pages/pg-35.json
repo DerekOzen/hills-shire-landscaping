@@ -98,151 +98,177 @@
   "body": "",
   "_schemas": [
     {
-      "type": "LandscapingBusiness",
+      "type": "Custom",
       "data": {
-        "@type": "LandscapingBusiness",
-        "name": "Hill Shire Landscaping",
-        "image": "https://hillshirelandscaping.com.au/logo.png",
-        "url": "https://hillshirelandscaping.com.au",
-        "telephone": "0451 267 287",
-        "email": "info@hillshirelandscaping.com.au",
-        "priceRange": "$$",
-        "areaServed": [
+        "@context": "https://schema.org",
+        "@graph": [
           {
-            "@type": "Place",
-            "name": "Annangrove, NSW"
+            "@type": "LocalBusiness",
+            "@id": "https://hillshirelandscaping.com.au/#localbusiness",
+            "name": "Hill Shire Landscaping",
+            "url": "https://hillshirelandscaping.com.au/",
+            "telephone": "0451 267 287",
+            "email": "info@hillshirelandscaping.com.au",
+            "description": "Soft and hard landscaping across The Hills Shire, NSW. 15+ years experience in landscaping, gardening, tree services, retaining walls, paving and turf.",
+            "openingHours": "Mo-Sa 07:00-17:00",
+            "identifier": {
+              "@type": "PropertyValue",
+              "propertyID": "ABN",
+              "value": "15 938 183 499"
+            },
+            "areaServed": [
+              {
+                "@type": "AdministrativeArea",
+                "name": "The Hills Shire"
+              },
+              {
+                "@type": "Place",
+                "name": "Annangrove, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Baulkham Hills, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Beaumont Hills, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Bella Vista, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Box Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Castle Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Cattai, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Dural, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Glenhaven, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Glenorie, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Kellyville, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Kenthurst, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Leets Vale, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Maroota, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Nelson, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Rouse Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Sackville North, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "West Pennant Hills, NSW"
+              }
+            ]
           },
           {
-            "@type": "Place",
-            "name": "Baulkham Hills, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Beaumont Hills, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Bella Vista, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Box Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Castle Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Cattai, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Dural, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Glenhaven, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Glenorie, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Kellyville, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Kenthurst, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Leets Vale, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Maroota, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Nelson, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Rouse Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Sackville North, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "West Pennant Hills, NSW"
-          }
-        ],
-        "address": {
-          "@type": "PostalAddress",
-          "addressRegion": "NSW",
-          "addressLocality": "The Hills Shire",
-          "addressCountry": "AU"
-        },
-        "openingHours": "Mo-Sa 07:00-17:00",
-        "description": "Soft and hard landscaping across The Hills Shire, NSW. 15+ years experience in landscaping, gardening, tree services, retaining walls, paving and turf."
-      }
-    },
-    {
-      "type": "FAQPage",
-      "data": {
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "Do you do both soft and hard landscaping?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes - both. Soft landscaping covers the living side (turf, garden beds, planting, mulch), and hard landscaping covers the built side (retaining walls, paving, driveways). Most yards need a bit of both, and we handle the lot in-house."
+            "@type": "WebSite",
+            "@id": "https://hillshirelandscaping.com.au/#website",
+            "url": "https://hillshirelandscaping.com.au/",
+            "name": "Hill Shire Landscaping",
+            "publisher": {
+              "@id": "https://hillshirelandscaping.com.au/#localbusiness"
             }
           },
           {
-            "@type": "Question",
-            "name": "Which areas do you cover?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "We're based in The Hills Shire and cover the whole area - Castle Hill, Kellyville, Baulkham Hills, Bella Vista, Rouse Hill, Dural, Kenthurst, Glenhaven, Annangrove and every suburb in between. If you're nearby and not sure, just ask."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Do you offer free quotes?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "We do. Every quote is free and obligation-free - we come out, have a look at your place, talk through what you're after, and give you a clear price. No pressure, no call-out fee."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How much does landscaping cost?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "It depends on the job - a garden tidy-up is very different to a full backyard build with a retaining wall and new turf. We'll give you an honest, itemised quote so you know exactly what you're paying for before we start."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Do you remove and prune trees?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. We handle tree removal, pruning and cutting, and we clean up and cart away the mess when we're done. For anything larger or near power lines we'll let you know the safest way to tackle it."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How many years&rsquo; experience do you have?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Over 15 years landscaping across The Hills Shire and Sydney's north-west - so we know the local soil, slopes and conditions, and what actually lasts out here."
-            }
+            "@type": [
+              "WebPage",
+              "FAQPage"
+            ],
+            "@id": "https://hillshirelandscaping.com.au/#webpage",
+            "url": "https://hillshirelandscaping.com.au/",
+            "name": "Hill Shire Landscaping",
+            "inLanguage": "en-AU",
+            "isPartOf": {
+              "@id": "https://hillshirelandscaping.com.au/#website"
+            },
+            "about": {
+              "@id": "https://hillshirelandscaping.com.au/#localbusiness"
+            },
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "Do you do both soft and hard landscaping?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Yes - both. Soft landscaping covers the living side (turf, garden beds, planting, mulch), and hard landscaping covers the built side (retaining walls, paving, driveways). Most yards need a bit of both, and we handle the lot in-house."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Which areas do you cover?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "We're based in The Hills Shire and cover the whole area - Castle Hill, Kellyville, Baulkham Hills, Bella Vista, Rouse Hill, Dural, Kenthurst, Glenhaven, Annangrove and every suburb in between. If you're nearby and not sure, just ask."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Do you offer free quotes?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "We do. Every quote is free and obligation-free - we come out, have a look at your place, talk through what you're after, and give you a clear price. No pressure, no call-out fee."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How much does landscaping cost?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "It depends on the job - a garden tidy-up is very different to a full backyard build with a retaining wall and new turf. We'll give you an honest, itemised quote so you know exactly what you're paying for before we start."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Do you remove and prune trees?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Yes. We handle tree removal, pruning and cutting, and we clean up and cart away the mess when we're done. For anything larger or near power lines we'll let you know the safest way to tackle it."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How many years' experience do you have?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Over 15 years landscaping across The Hills Shire and Sydney's north-west - so we know the local soil, slopes and conditions, and what actually lasts out here."
+                }
+              }
+            ]
           }
         ]
       }
