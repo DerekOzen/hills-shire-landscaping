@@ -163,7 +163,7 @@
   },
   {
     "id": "pg-41",
-    "path": "/services/",
+    "path": "/services",
     "type": "service",
     "title": "Landscaping Services The Hills Shire | Hill Shire Landscaping",
     "seoTitle": "Landscaping Services The Hills Shire | Hill Shire Landscaping",
@@ -174,8 +174,8 @@
     "status": "published",
     "createdAt": "2026-08-07T03:10:59.556Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-11T22:19:31.938Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-11T06:05:57.900Z",
+    "updatedBy": "sebastian"
   },
   {
     "id": "pg-42",

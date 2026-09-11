@@ -35,97 +35,202 @@
   "body": "",
   "_schemas": [
     {
-      "type": "LandscapingBusiness",
+      "type": "Custom",
       "data": {
-        "@type": "LandscapingBusiness",
-        "name": "Hill Shire Landscaping",
-        "image": "https://hillshirelandscaping.com.au/logo.png",
-        "url": "https://hillshirelandscaping.com.au",
-        "telephone": "0451 267 287",
-        "email": "info@hillshirelandscaping.com.au",
-        "priceRange": "$$",
-        "areaServed": [
+        "@context": "https://schema.org",
+        "@graph": [
           {
-            "@type": "Place",
-            "name": "Annangrove, NSW"
+            "@type": "LocalBusiness",
+            "@id": "https://hillshirelandscaping.com.au/#localbusiness",
+            "name": "Hill Shire Landscaping",
+            "url": "https://hillshirelandscaping.com.au/",
+            "telephone": "0451 267 287",
+            "email": "info@hillshirelandscaping.com.au",
+            "description": "Soft and hard landscaping across The Hills Shire, NSW. 15+ years experience in landscaping, gardening, tree services, retaining walls, paving and turf.",
+            "openingHours": "Mo-Sa 07:00-17:00",
+            "identifier": {
+              "@type": "PropertyValue",
+              "propertyID": "ABN",
+              "value": "15 938 183 499"
+            },
+            "areaServed": [
+              {
+                "@type": "AdministrativeArea",
+                "name": "The Hills Shire"
+              },
+              {
+                "@type": "Place",
+                "name": "Annangrove, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Baulkham Hills, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Beaumont Hills, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Bella Vista, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Box Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Castle Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Cattai, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Dural, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Glenhaven, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Glenorie, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Kellyville, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Kenthurst, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Leets Vale, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Maroota, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Nelson, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Rouse Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Sackville North, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "West Pennant Hills, NSW"
+              }
+            ]
           },
           {
-            "@type": "Place",
-            "name": "Baulkham Hills, NSW"
+            "@type": "WebSite",
+            "@id": "https://hillshirelandscaping.com.au/#website",
+            "url": "https://hillshirelandscaping.com.au/",
+            "name": "Hill Shire Landscaping",
+            "publisher": {
+              "@id": "https://hillshirelandscaping.com.au/#localbusiness"
+            }
           },
           {
-            "@type": "Place",
-            "name": "Beaumont Hills, NSW"
+            "@type": "CollectionPage",
+            "@id": "https://hillshirelandscaping.com.au/services/#webpage",
+            "url": "https://hillshirelandscaping.com.au/services/",
+            "name": "Landscaping services across The Hills Shire",
+            "inLanguage": "en-AU",
+            "isPartOf": {
+              "@id": "https://hillshirelandscaping.com.au/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://hillshirelandscaping.com.au/services/#breadcrumb"
+            },
+            "mainEntity": {
+              "@id": "https://hillshirelandscaping.com.au/services/#itemlist"
+            }
           },
           {
-            "@type": "Place",
-            "name": "Bella Vista, NSW"
+            "@type": "BreadcrumbList",
+            "@id": "https://hillshirelandscaping.com.au/services/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://hillshirelandscaping.com.au/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Services",
+                "item": "https://hillshirelandscaping.com.au/services/"
+              }
+            ]
           },
           {
-            "@type": "Place",
-            "name": "Box Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Castle Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Cattai, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Dural, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Glenhaven, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Glenorie, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Kellyville, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Kenthurst, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Leets Vale, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Maroota, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Nelson, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Rouse Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Sackville North, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "West Pennant Hills, NSW"
+            "@type": "ItemList",
+            "@id": "https://hillshirelandscaping.com.au/services/#itemlist",
+            "name": "Landscaping services",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Landscape Design & Construction",
+                "item": "https://hillshirelandscaping.com.au/landscape-design-construction/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Gardening & Maintenance",
+                "item": "https://hillshirelandscaping.com.au/gardener/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Mulching",
+                "item": "https://hillshirelandscaping.com.au/mulching/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "Weeding",
+                "item": "https://hillshirelandscaping.com.au/weeding/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 5,
+                "name": "Tree Services",
+                "item": "https://hillshirelandscaping.com.au/tree-services/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 6,
+                "name": "Retaining Walls",
+                "item": "https://hillshirelandscaping.com.au/retainer-walls/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 7,
+                "name": "Paving & Driveways",
+                "item": "https://hillshirelandscaping.com.au/pavers/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 8,
+                "name": "Turf Laying",
+                "item": "https://hillshirelandscaping.com.au/turf-laying/"
+              }
+            ]
           }
-        ],
-        "address": {
-          "@type": "PostalAddress",
-          "addressRegion": "NSW",
-          "addressLocality": "The Hills Shire",
-          "addressCountry": "AU"
-        },
-        "openingHours": "Mo-Sa 07:00-17:00",
-        "description": "Family-owned soft and hard landscaping across The Hills Shire, NSW. 15+ years in landscaping, gardening, tree services, retaining walls, paving and turf."
+        ]
       }
     }
   ]
