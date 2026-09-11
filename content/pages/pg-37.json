@@ -98,147 +98,197 @@
   "body": "",
   "_schemas": [
     {
-      "type": "LandscapingBusiness",
+      "type": "Custom",
       "data": {
-        "@type": "LandscapingBusiness",
-        "name": "Hill Shire Landscaping",
-        "image": "https://hillshirelandscaping.com.au/logo.png",
-        "url": "https://hillshirelandscaping.com.au",
-        "telephone": "0451 267 287",
-        "email": "info@hillshirelandscaping.com.au",
-        "priceRange": "$$",
-        "areaServed": [
+        "@context": "https://schema.org",
+        "@graph": [
           {
-            "@type": "Place",
-            "name": "Annangrove, NSW"
+            "@type": "LocalBusiness",
+            "@id": "https://hillshirelandscaping.com.au/#localbusiness",
+            "name": "Hill Shire Landscaping",
+            "url": "https://hillshirelandscaping.com.au/",
+            "telephone": "0451 267 287",
+            "email": "info@hillshirelandscaping.com.au",
+            "description": "Soft and hard landscaping across The Hills Shire, NSW. 15+ years experience in landscaping, gardening, tree services, retaining walls, paving and turf.",
+            "openingHours": "Mo-Sa 07:00-17:00",
+            "identifier": {
+              "@type": "PropertyValue",
+              "propertyID": "ABN",
+              "value": "15 938 183 499"
+            },
+            "areaServed": [
+              {
+                "@type": "AdministrativeArea",
+                "name": "The Hills Shire"
+              },
+              {
+                "@type": "Place",
+                "name": "Annangrove, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Baulkham Hills, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Beaumont Hills, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Bella Vista, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Box Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Castle Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Cattai, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Dural, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Glenhaven, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Glenorie, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Kellyville, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Kenthurst, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Leets Vale, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Maroota, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Nelson, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Rouse Hill, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "Sackville North, NSW"
+              },
+              {
+                "@type": "Place",
+                "name": "West Pennant Hills, NSW"
+              }
+            ]
           },
           {
-            "@type": "Place",
-            "name": "Baulkham Hills, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Beaumont Hills, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Bella Vista, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Box Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Castle Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Cattai, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Dural, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Glenhaven, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Glenorie, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Kellyville, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Kenthurst, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Leets Vale, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Maroota, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Nelson, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Rouse Hill, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "Sackville North, NSW"
-          },
-          {
-            "@type": "Place",
-            "name": "West Pennant Hills, NSW"
-          }
-        ],
-        "address": {
-          "@type": "PostalAddress",
-          "addressRegion": "NSW",
-          "addressLocality": "The Hills Shire",
-          "addressCountry": "AU"
-        },
-        "openingHours": "Mo-Sa 07:00-17:00",
-        "description": "Family-owned soft and hard landscaping across The Hills Shire, NSW. 15+ years in landscaping, gardening, tree services, retaining walls, paving and turf."
-      }
-    },
-    {
-      "type": "FAQPage",
-      "data": {
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "How much does a full backyard landscaping project cost?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "It depends on the scope - a single garden makeover is very different to a whole-yard build with a retaining wall, paving, turf and planting. We give you a free, itemised quote so you can see exactly what each part of the project costs before you commit."
+            "@type": "WebSite",
+            "@id": "https://hillshirelandscaping.com.au/#website",
+            "url": "https://hillshirelandscaping.com.au/",
+            "name": "Hill Shire Landscaping",
+            "publisher": {
+              "@id": "https://hillshirelandscaping.com.au/#localbusiness"
             }
           },
           {
-            "@type": "Question",
-            "name": "Do you handle the design as well as the build?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes - both, in-house. We'll walk your space with you, talk through how you want to use it, and put together a practical design, then build the whole thing with our own crew. One point of contact from concept to finished yard."
-            }
+            "@type": [
+              "WebPage",
+              "FAQPage"
+            ],
+            "@id": "https://hillshirelandscaping.com.au/landscape-design-construction/#webpage",
+            "url": "https://hillshirelandscaping.com.au/landscape-design-construction/",
+            "name": "Landscape Design & Construction in The Hills Shire",
+            "inLanguage": "en-AU",
+            "isPartOf": {
+              "@id": "https://hillshirelandscaping.com.au/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://hillshirelandscaping.com.au/landscape-design-construction/#breadcrumb"
+            },
+            "about": {
+              "@id": "https://hillshirelandscaping.com.au/landscape-design-construction/#service"
+            },
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "How much does a full backyard landscaping project cost?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "It depends on the scope - a single garden makeover is very different to a whole-yard build with a retaining wall, paving, turf and planting. We give you a free, itemised quote so you can see exactly what each part of the project costs before you commit."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Do you handle the design as well as the build?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Yes - both, in-house. We'll walk your space with you, talk through how you want to use it, and put together a practical design, then build the whole thing with our own crew. One point of contact from concept to finished yard."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Do you do both soft and hard landscaping in a project?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "We do. Soft landscaping is the living side (turf, beds, plants, mulch) and hard landscaping is the built side (walls, paving, driveways). A full makeover usually needs both, and we handle the lot so it all ties together."
+                }
+              }
+            ]
           },
           {
-            "@type": "Question",
-            "name": "Do you do both soft and hard landscaping in a project?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "We do. Soft landscaping is the living side (turf, beds, plants, mulch) and hard landscaping is the built side (walls, paving, driveways). A full makeover usually needs both, and we handle the lot so it all ties together."
+            "@type": "BreadcrumbList",
+            "@id": "https://hillshirelandscaping.com.au/landscape-design-construction/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://hillshirelandscaping.com.au/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Services",
+                "item": "https://hillshirelandscaping.com.au/services/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Landscape Design & Construction",
+                "item": "https://hillshirelandscaping.com.au/landscape-design-construction/"
+              }
+            ]
+          },
+          {
+            "@type": "Service",
+            "@id": "https://hillshirelandscaping.com.au/landscape-design-construction/#service",
+            "name": "Landscape Design & Construction",
+            "serviceType": "Landscape Design & Construction",
+            "url": "https://hillshirelandscaping.com.au/landscape-design-construction/",
+            "description": "Landscape design and full construction of outdoor spaces, including garden beds, turf, retaining walls, paving and planting delivered as integrated projects across The Hills Shire.",
+            "provider": {
+              "@id": "https://hillshirelandscaping.com.au/#localbusiness"
+            },
+            "areaServed": {
+              "@type": "AdministrativeArea",
+              "name": "The Hills Shire"
             }
           }
         ]
-      }
-    },
-    {
-      "type": "Service",
-      "data": {
-        "@type": "Service",
-        "serviceType": "Landscape Design and Construction",
-        "provider": {
-          "@type": "LandscapingBusiness",
-          "name": "Hill Shire Landscaping",
-          "telephone": "0451 267 287",
-          "email": "info@hillshirelandscaping.com.au"
-        },
-        "areaServed": {
-          "@type": "AdministrativeArea",
-          "name": "The Hills Shire, NSW"
-        },
-        "description": "Landscape design and construction across The Hills Shire, NSW. Full backyard makeovers and complete soft and hard landscaping builds by a family-owned local team. Free quotes."
       }
     }
   ]
