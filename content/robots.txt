@@ -4,10 +4,8 @@ Allow: /
 
 Sitemap: https://hillshirelandscaping.com.au/sitemap.xml
 
-# ---------------------------
-# END YOAST BLOCK
-
 # --- AI / LLM crawler rules ---
+
 User-agent: GPTBot
 Allow: /
 
