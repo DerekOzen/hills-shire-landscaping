@@ -1,0 +1,51 @@
+{
+  "batches": [
+    {
+      "batchId": "csg-mu3ds512-0w0h",
+      "at": "2026-09-16T00:47:06.614Z",
+      "count": 10,
+      "changes": [
+        {
+          "path": "/",
+          "newRecordId": "SCHEMA-539E8918"
+        },
+        {
+          "path": "/services",
+          "newRecordId": "SCHEMA-3F633D51"
+        },
+        {
+          "path": "/landscape-design-construction",
+          "newRecordId": "SCHEMA-14818F8F"
+        },
+        {
+          "path": "/gardener",
+          "newRecordId": "SCHEMA-2F49DCEA"
+        },
+        {
+          "path": "/mulching",
+          "newRecordId": "SCHEMA-31824100"
+        },
+        {
+          "path": "/weeding",
+          "newRecordId": "SCHEMA-3AD8B59F"
+        },
+        {
+          "path": "/tree-services",
+          "newRecordId": "SCHEMA-2C06EC78"
+        },
+        {
+          "path": "/retainer-walls",
+          "newRecordId": "SCHEMA-2B089948"
+        },
+        {
+          "path": "/pavers",
+          "newRecordId": "SCHEMA-EBAD39F0"
+        },
+        {
+          "path": "/turf-laying",
+          "newRecordId": "SCHEMA-2AC0C22C"
+        }
+      ]
+    }
+  ]
+}
