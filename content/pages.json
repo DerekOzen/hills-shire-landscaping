@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-9",
-    "path": "/privacy-policy/",
+    "path": "/privacy-policy",
     "type": "page",
     "title": "Privacy Policy | Hill Shire Landscaping",
     "seoTitle": "Privacy Policy | Hill Shire Landscaping",
@@ -12,8 +12,10 @@
     "status": "published",
     "createdAt": "2026-08-06T21:11:04.331Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-11T22:19:31.938Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T01:36:17.837Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/hill-shire-landscaping-logo-1-94bcd921.jpg",
+    "featuredImageAlt": "Hill Shire Landscaping Privacy Policy"
   },
   {
     "id": "pg-10",
