@@ -600,9 +600,11 @@
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-08-11T22:19:31.938Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-09-17T01:19:16.813Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-08-07T03:16:41.186Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/hill-shire-landscaping-logo-1-94bcd921.jpg",
+    "featuredImageAlt": "Contact Hill Shire Landscaping"
   }
 ]
