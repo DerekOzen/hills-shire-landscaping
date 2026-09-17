@@ -19,7 +19,7 @@
   },
   {
     "id": "pg-10",
-    "path": "/terms-and-conditions/",
+    "path": "/terms-and-conditions",
     "type": "page",
     "title": "Terms & Conditions | Hill Shire Landscaping",
     "seoTitle": "Terms & Conditions | Hill Shire Landscaping",
@@ -30,8 +30,10 @@
     "status": "published",
     "createdAt": "2026-08-06T21:11:04.331Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-11T22:19:31.938Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T01:38:30.093Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/hill-shire-landscaping-logo-1-94bcd921.jpg",
+    "featuredImageAlt": "Hill Shire Landscaping Terms & Conditions"
   },
   {
     "id": "pg-11",
