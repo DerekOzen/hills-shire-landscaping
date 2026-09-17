@@ -1,6 +1,139 @@
 {
   "batches": [
     {
+      "batchId": "csg-mu4zt73u-qxuf",
+      "at": "2026-09-17T03:51:33.690Z",
+      "count": 29,
+      "changes": [
+        {
+          "path": "/",
+          "oldRecordId": "SCHEMA-539E8918",
+          "newRecordId": "SCHEMA-539E8918"
+        },
+        {
+          "path": "/services",
+          "oldRecordId": "SCHEMA-3F633D51",
+          "newRecordId": "SCHEMA-3F633D51"
+        },
+        {
+          "path": "/landscape-design-construction",
+          "oldRecordId": "SCHEMA-14818F8F",
+          "newRecordId": "SCHEMA-14818F8F"
+        },
+        {
+          "path": "/gardener",
+          "oldRecordId": "SCHEMA-2F49DCEA",
+          "newRecordId": "SCHEMA-2F49DCEA"
+        },
+        {
+          "path": "/mulching",
+          "oldRecordId": "SCHEMA-31824100",
+          "newRecordId": "SCHEMA-31824100"
+        },
+        {
+          "path": "/weeding",
+          "oldRecordId": "SCHEMA-3AD8B59F",
+          "newRecordId": "SCHEMA-3AD8B59F"
+        },
+        {
+          "path": "/tree-services",
+          "oldRecordId": "SCHEMA-2C06EC78",
+          "newRecordId": "SCHEMA-2C06EC78"
+        },
+        {
+          "path": "/retainer-walls",
+          "oldRecordId": "SCHEMA-2B089948",
+          "newRecordId": "SCHEMA-2B089948"
+        },
+        {
+          "path": "/pavers",
+          "oldRecordId": "SCHEMA-EBAD39F0",
+          "newRecordId": "SCHEMA-EBAD39F0"
+        },
+        {
+          "path": "/turf-laying",
+          "oldRecordId": "SCHEMA-2AC0C22C",
+          "newRecordId": "SCHEMA-2AC0C22C"
+        },
+        {
+          "path": "/service-areas",
+          "newRecordId": "SCHEMA-AEBD6E21"
+        },
+        {
+          "path": "/service-areas/landscaping-annangrove",
+          "newRecordId": "SCHEMA-201618F8"
+        },
+        {
+          "path": "/service-areas/landscaping-baulkham-hills",
+          "newRecordId": "SCHEMA-DD5F0FB4"
+        },
+        {
+          "path": "/service-areas/landscaping-beaumont-hills",
+          "newRecordId": "SCHEMA-1EDBE185"
+        },
+        {
+          "path": "/service-areas/landscaping-bella-vista",
+          "newRecordId": "SCHEMA-EC21E640"
+        },
+        {
+          "path": "/service-areas/landscaping-box-hill",
+          "newRecordId": "SCHEMA-F062BE50"
+        },
+        {
+          "path": "/service-areas/landscaping-castle-hill",
+          "newRecordId": "SCHEMA-0B2E91BA"
+        },
+        {
+          "path": "/service-areas/landscaping-cattai",
+          "newRecordId": "SCHEMA-7E0D9C37"
+        },
+        {
+          "path": "/service-areas/landscaping-dural",
+          "newRecordId": "SCHEMA-6BF12DCC"
+        },
+        {
+          "path": "/service-areas/landscaping-glenhaven",
+          "newRecordId": "SCHEMA-EB45FB02"
+        },
+        {
+          "path": "/service-areas/landscaping-glenorie",
+          "newRecordId": "SCHEMA-AD4BF242"
+        },
+        {
+          "path": "/service-areas/landscaping-kellyville",
+          "newRecordId": "SCHEMA-985CE0B4"
+        },
+        {
+          "path": "/service-areas/landscaping-kenthurst",
+          "newRecordId": "SCHEMA-AD8A964F"
+        },
+        {
+          "path": "/service-areas/landscaping-leets-vale",
+          "newRecordId": "SCHEMA-3D638448"
+        },
+        {
+          "path": "/service-areas/landscaping-maroota",
+          "newRecordId": "SCHEMA-40370835"
+        },
+        {
+          "path": "/service-areas/landscaping-nelson",
+          "newRecordId": "SCHEMA-66F0C177"
+        },
+        {
+          "path": "/service-areas/landscaping-rouse-hill",
+          "newRecordId": "SCHEMA-F02B3683"
+        },
+        {
+          "path": "/service-areas/landscaping-sackville-north",
+          "newRecordId": "SCHEMA-A10A2AB7"
+        },
+        {
+          "path": "/service-areas/landscaping-west-pennant-hills",
+          "newRecordId": "SCHEMA-9483FC51"
+        }
+      ]
+    },
+    {
       "batchId": "csg-mu4xulya-9d4g",
       "at": "2026-09-17T02:56:40.354Z",
       "count": 10,
