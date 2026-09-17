@@ -75,11 +75,13 @@
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-09-11T05:54:17.124Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-09-17T00:23:10.491Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-08-07T01:30:06.669Z",
     "createdBy": "derek",
-    "isHome": true
+    "isHome": true,
+    "featuredImage": "/uploads/landscaping-hillshire-7502c3b9.jpg",
+    "featuredImageAlt": "Clean, weeded garden bed featuring fresh wood bark mulch, stone edging, and vibrant ornamental plants bordering a pristine lawn."
   },
   {
     "id": "pg-36",
