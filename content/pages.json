@@ -580,10 +580,12 @@
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-08-11T22:19:31.938Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-09-17T01:13:37.697Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-08-07T03:15:24.023Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/hill-shire-landscaping-logo-1-94bcd921.jpg",
+    "featuredImageAlt": "Hill Shire Landscaping Service Areas"
   },
   {
     "id": "pg-64",
