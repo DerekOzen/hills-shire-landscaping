@@ -644,5 +644,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-09-29T04:48:06.827Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-67",
+    "path": "/blogs",
+    "type": "page",
+    "title": "Landscaping Blog & Guides | Hills Shire Landscaping",
+    "seoTitle": "Landscaping Blog & Guides | Hills Shire Landscaping",
+    "seoDescription": "Landscaping tips, cost guides and how-tos for The Hills Shire, from the local family-owned team at Hills Shire Landscaping.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-09-29T04:55:30.353Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-09-29T04:55:30.353Z",
+    "updatedBy": "joshua"
   }
 ]
