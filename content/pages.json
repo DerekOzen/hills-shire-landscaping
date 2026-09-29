@@ -658,7 +658,8 @@
     "status": "published",
     "createdAt": "2026-09-29T04:55:30.353Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-29T05:24:54.543Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-29T05:32:08.738Z",
+    "updatedBy": "joshua",
+    "isBlogIndex": true
   }
 ]
