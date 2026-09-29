@@ -658,8 +658,10 @@
     "status": "published",
     "createdAt": "2026-09-29T04:55:30.353Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-29T05:32:08.738Z",
+    "updatedAt": "2026-09-29T05:48:18.636Z",
     "updatedBy": "joshua",
-    "isBlogIndex": true
+    "isBlogIndex": true,
+    "featuredImage": "/uploads/landscaping-services-b5d31fcf.jpg",
+    "featuredImageAlt": "The Hills Shire Landscaping Blog"
   }
 ]
